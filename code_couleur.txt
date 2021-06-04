@@ -1,0 +1,26 @@
+/* Color Theme Swatches in Hex */
+.levé-de-soleil-1-hex { color: #252859; }
+.levé-de-soleil-2-hex { color: #7A85BF; }
+.levé-de-soleil-3-hex { color: #B0B6D9; }
+.levé-de-soleil-4-hex { color: #F2F2F2; }
+.levé-de-soleil-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.levé-de-soleil-1-rgba { color: rgba(37, 40, 89, 1); }
+.levé-de-soleil-2-rgba { color: rgba(122, 132, 191, 1); }
+.levé-de-soleil-3-rgba { color: rgba(175, 181, 216, 1); }
+.levé-de-soleil-4-rgba { color: rgba(242, 242, 242, 1); }
+.levé-de-soleil-5-rgba { color: rgba(12, 12, 12, 1); }
+
+/* Color Theme Swatches in HSLA */
+.levé-de-soleil-1-hsla { color: hsla(236, 40, 24, 1); }
+.levé-de-soleil-2-hsla { color: hsla(230, 35, 61, 1); }
+.levé-de-soleil-3-hsla { color: hsla(230, 34, 76, 1); }
+.levé-de-soleil-4-hsla { color: hsla(0, 0, 95, 1); }
+.levé-de-soleil-5-hsla { color: hsla(0, 0, 5, 1); }
+
+
+////////////////////////////////////////////////////////////
+
+
+beige : 247 247 247
